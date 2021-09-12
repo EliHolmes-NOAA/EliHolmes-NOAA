@@ -1,16 +1,15 @@
-### Hi there 👋
+# E. Eli Holmes
 
-<!--
-**eeholmes/eeholmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.laobi.icu/badge?page_id=eeholmes.eeholmes)
+[![Github](https://img.shields.io/github/followers/eeholmes?label=Follow&style=social)](https://github.com/eeholmes)
 
-Here are some ideas to get you started:
+### Research Fisheries Biologist 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Northwest Fisheries Science Center
+
+
+## Learn more about me! [Find my website here.](https://eeholmes.github.io/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeholmes)
+![Github stats](https://github-readme-stats.vercel.app/api?username=eeholmes&show_icons=true)
+
