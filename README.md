@@ -1,5 +1,7 @@
 # [E. Eli Holmes](https://eeholmes.github.io/) ![](https://visitor-badge.laobi.icu/badge?page_id=eeholmes.eeholmes) [![Github](https://img.shields.io/github/followers/eeholmes?label=Follow&style=social)](https://github.com/eeholmes)
 
+<img align="right" src="horst-champions-trailhead.png" width="450">  
+
 | Research Fisheries Biologist, Northwest Fisheries Science Center | Affiliate faculty, SAFS, University of Washington |
 | --- | ----------- |
 
