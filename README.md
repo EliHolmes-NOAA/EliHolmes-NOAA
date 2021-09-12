@@ -2,8 +2,8 @@
 
 <img align="right" src="horst-champions-trailhead.png" width="450">  
 
-| Research Fisheries Biologist, Northwest Fisheries Science Center | Affiliate faculty, SAFS, University of Washington |
-| --- | ----------- |
+Research Fisheries Biologist, Northwest Fisheries Science Center<br>
+Affiliate faculty, SAFS, University of Washington
 
 My personal profile has mostly random or sandboxy repositories. To find my actual code products, look in the GH organizations that I contribute to.
 
