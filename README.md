@@ -1,9 +1,11 @@
 # [E. Eli Holmes](https://eeholmes.github.io/) ![](https://visitor-badge.laobi.icu/badge?page_id=eeholmes.eeholmes) [![Github](https://img.shields.io/github/followers/eeholmes?label=Follow&style=social)](https://github.com/eeholmes)
 
-<img align="right" src="india-2019.gif" width="450">  
+<img align="right" src="India_2019.gif" width="250">  
 
-Research Fisheries Biologist, Northwest Fisheries Science Center<br>
-Affiliate faculty, SAFS, University of Washington
+Research Fisheries Biologist, Northwest Fisheries Science Center, NOAA Fisheries<br>
+Affiliate faculty, SAFS, University of Washington, Seattle
+
+***
 
 My personal profile has mostly random or sandboxy repositories. To find my actual code products, look in the GH organizations that I contribute to.
 
