@@ -13,5 +13,3 @@ My personal profile has mostly random or sandboxy repositories. To find my actua
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [![](https://avatars.githubusercontent.com/u/26258338?s=60&v=4)](https://github.com/nwfsc-timeseries) | [![](https://avatars.githubusercontent.com/u/36172008?s=60&v=4)](https://github.com/nwfsc-math-bio) | [![](https://avatars.githubusercontent.com/u/42893428?s=60&v=4)](https://github.com/fish-forecast) | [![](https://avatars.githubusercontent.com/u/42900757?s=60&v=4)](https://github.com/RVerse-Tutorials) | [![](https://avatars.githubusercontent.com/u/50644468?s=60&v=4)](https://github.com/ocean-satellite-tools) | [![](https://avatars.githubusercontent.com/u/85971012?s=60&v=4)](https://github.com/UW-Upwelling-Project) |
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=eeholmes&show_icons=true)
-
