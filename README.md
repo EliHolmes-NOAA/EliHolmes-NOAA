@@ -10,6 +10,8 @@ Affiliate faculty, SAFS, University of Washington, Seattle
 My personal profile has mostly random or sandboxy repositories. To find my actual code products, look in the GH organizations that I contribute to. If you are looking for time series stuff: [ATSA book](https://nwfsc-timeseries.github.io/atsa-labs/), [ATSA course webpage](https://nwfsc-timeseries.github.io/atsa/), [MARSS](https://nwfsc-timeseries.github.io/MARSS/), [MARSS with Stan](https://nwfsc-timeseries.github.io/atsar/).
 
 <!--
+Horizontal table version (commented out)
+
 | NWFSC<br>Time Series | NWFSC<br>Math Bio | Fish<br>Forecast | R Workflow | Remote<br>Sensing<br>Tools | Upwelling |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [![](https://avatars.githubusercontent.com/u/26258338?s=60&v=4)](https://nwfsc-timeseries.github.io) | [![](https://avatars.githubusercontent.com/u/36172008?s=60&v=4)](https://nwfsc-math-bio.github.io) | [![](https://avatars.githubusercontent.com/u/42893428?s=60&v=4)](https://fish-forecast.github.io/) | [![](https://avatars.githubusercontent.com/u/42900757?s=60&v=4)](https://rverse-tutorials.github.io/) | [![](https://avatars.githubusercontent.com/u/50644468?s=60&v=4)](https://github.com/ocean-satellite-tools) | [![](https://avatars.githubusercontent.com/u/85971012?s=60&v=4)](https://github.com/UW-Upwelling-Project) |
@@ -17,14 +19,14 @@ My personal profile has mostly random or sandboxy repositories. To find my actua
 | [![GitHub org issues](https://img.shields.io/github/issues-search?label=open%20issues&query=org%3Anwfsc-timeseries%20is%3Aopen)](https://github.com/orgs/nwfsc-timeseries/projects/1) |  |  |  |  | [![GitHub org issues](https://img.shields.io/github/issues-search?label=open%20issues&query=org%3AUW-Upwelling-Project%20is%3Aopen)](https://github.com/orgs/UW-Upwelling-Project/projects/5) |
 -->
 
-| org | image | links | issues |
+<!--
+Vertical table with markdown; I don't like the header
+-->
+| org | <hr> | links | status |
 | :---: | :---: | :---: | :---: |
-| atsa-es | [![](https://avatars.githubusercontent.com/u/26258338?s=60&v=4)](https://nwfsc-timeseries.github.io) | [<img width="20" src="globe.png">](https://nwfsc-timeseries.github.io)  [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/nwfsc-timeseries) | [![GitHub org issues](https://img.shields.io/github/issues-search?label=open%20issues&query=org%3Anwfsc-timeseries%20is%3Aopen)](https://github.com/orgs/nwfsc-timeseries/projects/1) |
-| nwfsc-math-bio | [![](https://avatars.githubusercontent.com/u/36172008?s=60&v=4)](https://nwfsc-math-bio.github.io) | [<img width="20" src="globe.png">](https://nwfsc-math-bio.github.io)  [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/nwfsc-math-bio) |  |
-| fish-forecast | [![](https://avatars.githubusercontent.com/u/42893428?s=60&v=4)](https://fish-forecast.github.io/) | [<img width="20" src="globe.png">](https://fish-forecast.github.io) [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/fish-forecast) |  |
-| rverse-tutorials | [![](https://avatars.githubusercontent.com/u/42900757?s=60&v=4)](https://rverse-tutorials.github.io/) | [<img width="20" src="globe.png">](https://rverse-tutorials.github.io) [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/RVerse-Tutorials) |  |
-| ocean-satellite-tools | [![](https://avatars.githubusercontent.com/u/50644468?s=60&v=4)](https://github.com/ocean-satellite-tools) | [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/ocean-satellite-tools) |  |
-| uw-upwelling-project | [![](https://avatars.githubusercontent.com/u/85971012?s=60&v=4)](https://github.com/UW-Upwelling-Project) | [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/UW-Upwelling-Project) | [![GitHub org issues](https://img.shields.io/github/issues-search?label=open%20issues&query=org%3AUW-Upwelling-Project%20is%3Aopen)](https://github.com/orgs/UW-Upwelling-Project/projects/5) |
-
-
-  
+| Applied Time<br>Series Analysis | [<img src="https://avatars.githubusercontent.com/u/26258338?s=60&v=4" width="75%">](https://nwfsc-timeseries.github.io) | [<img width="20" src="globe.png">](https://nwfsc-timeseries.github.io)  [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/nwfsc-timeseries) | [![GitHub org issues](https://img.shields.io/github/issues-search?label=open%20issues&query=org%3Anwfsc-timeseries%20is%3Aopen)](https://github.com/orgs/nwfsc-timeseries/projects/1) |
+| NWFSC<br>Math Bio | [<img src="https://avatars.githubusercontent.com/u/36172008?s=60&v=4" width="75%">](https://nwfsc-math-bio.github.io) | [<img width="20" src="globe.png">](https://nwfsc-math-bio.github.io)  [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/nwfsc-math-bio) |  |
+| Fish Forecast | [<img src="https://avatars.githubusercontent.com/u/42893428?s=60&v=4" width="75%">](https://fish-forecast.github.io) | [<img width="20" src="globe.png">](https://fish-forecast.github.io) [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/fish-forecast) |  |
+| Rverse<br>Tutorials | [<img src="https://avatars.githubusercontent.com/u/42900757?s=60&v=4" width="75%">](https://rverse-tutorials.github.io/) | [<img width="20" src="globe.png">](https://rverse-tutorials.github.io) [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/RVerse-Tutorials) |  |
+| Ocean<br>Satellite Tools | [<img src="https://avatars.githubusercontent.com/u/50644468?s=60&v=4" width="75%">](https://github.com/ocean-satellite-tools) | [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/ocean-satellite-tools) |  |
+| Upwelling project | [<img src="https://avatars.githubusercontent.com/u/85971012?s=60&v=4" width="75%">](https://github.com/UW-Upwelling-Project) | [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/UW-Upwelling-Project) | [![GitHub org issues](https://img.shields.io/github/issues-search?label=open%20issues&query=org%3AUW-Upwelling-Project%20is%3Aopen)](https://github.com/orgs/UW-Upwelling-Project/projects/5) |
