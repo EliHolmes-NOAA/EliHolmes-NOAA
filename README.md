@@ -30,3 +30,5 @@ Vertical table with markdown; I don't like the header
 | Rverse<br>Tutorials | [<img src="https://avatars.githubusercontent.com/u/42900757?s=60&v=4" width="75%">](https://rverse-tutorials.github.io/) | [<img width="20" src="globe.png">](https://rverse-tutorials.github.io) [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/RVerse-Tutorials) |  |
 | Ocean<br>Satellite Tools | [<img src="https://avatars.githubusercontent.com/u/50644468?s=60&v=4" width="75%">](https://github.com/ocean-satellite-tools) | [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/ocean-satellite-tools) |  |
 | Upwelling project | [<img src="https://avatars.githubusercontent.com/u/85971012?s=60&v=4" width="75%">](https://github.com/UW-Upwelling-Project) | [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/UW-Upwelling-Project) | [![GitHub org issues](https://img.shields.io/github/issues-search?label=open%20issues&query=org%3AUW-Upwelling-Project%20is%3Aopen)](https://github.com/orgs/UW-Upwelling-Project/projects/5) |
+
+I am also a contributor to [Openscapes](https://github.com/openscapes) and [R-Govys](https://github.com/rgovys).
