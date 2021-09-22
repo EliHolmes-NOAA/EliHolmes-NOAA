@@ -7,7 +7,7 @@ Affiliate faculty, SAFS, University of Washington, Seattle
 
 ***
 
-My personal profile has mostly random or sandboxy repositories. To find my actual code products, look in the GH organizations that I contribute to. If you are looking for time series stuff: [ATSA book](https://nwfsc-timeseries.github.io/atsa-labs/), [ATSA course webpage](https://nwfsc-timeseries.github.io/atsa/), [MARSS](https://nwfsc-timeseries.github.io/MARSS/), [MARSS with Stan](https://nwfsc-timeseries.github.io/atsar/).
+My personal profile has mostly sandboxy repos. To find my code products, look in the GH orgs that I contribute to. For time series stuff: [ATSA book](https://nwfsc-timeseries.github.io/atsa-labs/), [ATSA course webpage](https://nwfsc-timeseries.github.io/atsa/), [MARSS](https://nwfsc-timeseries.github.io/MARSS/), [MARSS with Stan](https://nwfsc-timeseries.github.io/atsar/).
 
 <!--
 Horizontal table version (commented out)
