@@ -38,6 +38,6 @@ Finding my stuff: You can try searching by topic: `https://github.com/search?q=t
 
 <hr>
 
-The repositories in my eeholmes GitHub account are scientific products and are not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. The scientific results and conclusions, as well as any views or opinions expressed herein, are those of the author(s) and do not necessarily reflect the views of NOAA or the Department of Commerce. In addition, this account may have forked repositories that are not my work. 
+The repositories in my eeholmes GitHub account are scientific products and are not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. The scientific results and conclusions, as well as any views or opinions expressed herein, are mine and do not necessarily reflect the views of NOAA or the Department of Commerce. In addition, this account may have forked repositories that are not my work. 
 
 
