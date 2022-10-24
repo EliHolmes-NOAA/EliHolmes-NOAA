@@ -7,7 +7,7 @@ Affiliate faculty, SAFS, University of Washington, Seattle
 
 ***
 
-My personal account has mostly sandboxy repos. To find my code products, look in the GH orgs that I contribute to. For time series stuff: [ATSA book](https://atsa-es.github.io/atsa-labs/), [ATSA course](https://atsa-es.github.io/atsa/), [MARSS](https://atsa-es.github.io/MARSS/), [MARSS with Stan](https://atsa-es.github.io/atsar/).
+My eeholmes account has mostly sandboxy repos. To find my code and teaching products, look in the GH orgs that I contribute to (table below). For time series stuff: [ATSA book](https://atsa-es.github.io/atsa-labs/), [ATSA course](https://atsa-es.github.io/atsa/), [MARSS](https://atsa-es.github.io/MARSS/), [MARSS with Stan](https://atsa-es.github.io/atsar/).
 
 <!--
 Horizontal table version (commented out)
@@ -32,8 +32,12 @@ Vertical table with markdown; I don't like the header
 | Ocean<br>Satellite Tools | [<img src="https://avatars.githubusercontent.com/u/50644468?s=60&v=4" width="75%">](https://github.com/ocean-satellite-tools) | [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/ocean-satellite-tools) |  |
 | Upwelling project | [<img src="https://avatars.githubusercontent.com/u/85971012?s=60&v=4" width="75%">](https://github.com/UW-Upwelling-Project) | [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/UW-Upwelling-Project) | [![GitHub org issues](https://img.shields.io/github/issues-search?label=open%20issues&query=org%3AUW-Upwelling-Project%20is%3Aopen)](https://github.com/orgs/UW-Upwelling-Project/projects/5) |
 
-I am also a contributor to [Openscapes](https://github.com/openscapes), [NMFS Openscapes](https://nmfs-openscapes.github.io), [NMFS R User Group](https://nmfs-openscapes.github.io/NMFS-R-UG/) and [R-Govys](https://github.com/rgovys).
+I am also a contributor to [NMFS OpenSci](https://nmfs-opensci.github.io), [Openscapes](https://github.com/openscapes), [NMFS Openscapes](https://nmfs-openscapes.github.io), [NMFS R User Group](https://nmfs-openscapes.github.io/NMFS-R-UG/) and [R-Govys](https://github.com/rgovys).
 
 Finding my stuff: You can try searching by topic: `https://github.com/search?q=topic:<TOPIC>+user:eeholmes&type=Repositories`. Topics: R, MARSS, jupyter, earthdata, remote-sensing, upwelling, teaching.
+
+<hr>
+
+The repositories in my eeholmes GitHub account are scientific products and are not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. The scientific results and conclusions, as well as any views or opinions expressed herein, are those of the author(s) and do not necessarily reflect the views of NOAA or the Department of Commerce. In addition, this account may have forked repositories that are not my work. 
 
 
