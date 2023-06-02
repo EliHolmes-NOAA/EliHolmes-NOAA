@@ -22,10 +22,10 @@ Vertical table with markdown; I don't like the header
 -->
 | org | <hr> | links | status |
 | :---: | :---: | :---: | :---: |
-| NWFSC<br>Math Bio | [<img src="https://avatars.githubusercontent.com/u/36172008?s=60&v=4" width="75%">](https://nwfsc-math-bio.github.io) | [<img width="20" src="globe.png">](https://nwfsc-math-bio.github.io)  [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/nwfsc-math-bio) |  |
+| NWFSC<br>Math Bio | [<img src="https://avatars.githubusercontent.com/u/36172008?s=60&v=4" width="75%">](https://nwfsc-math-bio.github.io) | [<img width="20" src="globe.png">](https://nwfsc-math-bio.github.io)  [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/nwfsc-math-bio) | [![GitHub org issues](https://img.shields.io/github/issues-search?label=open%20issues&query=org%3Anwfsc-math-bio%20is%3Aopen)](https://github.com/orgs/nwfsc-math-bio/projects/1) |
 | Fish Forecast | [<img src="https://avatars.githubusercontent.com/u/42893428?s=60&v=4" width="75%">](https://fish-forecast.github.io) | [<img width="20" src="globe.png">](https://fish-forecast.github.io) [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/fish-forecast) |  |
 | Rverse<br>Tutorials | [<img src="https://avatars.githubusercontent.com/u/42900757?s=60&v=4" width="75%">](https://rverse-tutorials.github.io/) | [<img width="20" src="globe.png">](https://rverse-tutorials.github.io) [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/RVerse-Tutorials) |  |
-| NMFS<br>OpenSci | [<img src="https://avatars.githubusercontent.com/u/110112201?s=200&v=4" width="75%">](https://nmfs-opensci.github.io) | [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/nmfs-opensci) |  |
+| NMFS<br>OpenSci | [<img src="https://avatars.githubusercontent.com/u/110112201?s=60&v=4" width="75%">](https://nmfs-opensci.github.io) | [<img width="20" src="GitHub-Mark-32px.png">](https://github.com/nmfs-opensci) | [![GitHub org issues](https://img.shields.io/github/issues-search?label=open%20issues&query=org%3Anmfs-opensci%20is%3Aopen)](https://github.com/orgs/nmfs-opensci/projects/1) |
 
 I am also a contributor to [Openscapes](https://github.com/openscapes), [NMFS Openscapes](https://nmfs-openscapes.github.io), [NMFS R User Group](https://nmfs-openscapes.github.io/NMFS-R-UG/) and [R-Govys](https://github.com/rgovys).
 
